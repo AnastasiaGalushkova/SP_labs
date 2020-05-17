@@ -1,0 +1,6 @@
+﻿  Lab2.1.Galushkova.cpp
+C:\Users\User\SP_lab\SP_labs\lab2\Galushkova2.1\Lab2.1.Galushkova.cpp(211,35): warning C4244: инициализация: преобразование "unsigned long" в "WORD", возможна потеря данных
+C:\Users\User\SP_lab\SP_labs\lab2\Galushkova2.1\Lab2.1.Galushkova.cpp(221,31): warning C4244: =: преобразование "DWORD" в "WORD", возможна потеря данных
+C:\Users\User\SP_lab\SP_labs\lab2\Galushkova2.1\Lab2.1.Galushkova.cpp(262,19): warning C4244: =: преобразование "DWORD" в "WORD", возможна потеря данных
+C:\Users\User\SP_lab\SP_labs\lab2\Galushkova2.1\Lab2.1.Galushkova.cpp(306,66): warning C4267: инициализация: преобразование из "size_t" в "WORD"; возможна потеря данных
+  Lab2.1.Galushkova.vcxproj -> C:\Users\User\SP_lab\SP_labs\lab2\Galushkova2.1\x64\Debug\Lab2.1.Galushkova.exe
