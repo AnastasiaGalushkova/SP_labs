@@ -1,0 +1,8 @@
+﻿  Lab3.3.Galushkova.cpp
+C:\Users\User\SP_lab\SP_labs\lab5\Galushkova5.3\Lab3.3.Galushkova.cpp(18,13): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+C:\Users\User\SP_lab\SP_labs\lab5\Galushkova5.3\Lab3.3.Galushkova.cpp(33,12): warning C4312: <function-style-cast>: преобразование из "int" в "LPVOID" большего размера
+C:\Users\User\SP_lab\SP_labs\lab5\Galushkova5.3\Lab3.3.Galushkova.cpp(47,20): warning C4311: приведение типов: усечение указателя из "LPVOID" в "int"
+C:\Users\User\SP_lab\SP_labs\lab5\Galushkova5.3\Lab3.3.Galushkova.cpp(47,20): warning C4302: приведение типов: усечение из "LPVOID" к "int"
+C:\Users\User\SP_lab\SP_labs\lab5\Galushkova5.3\Lab3.3.Galushkova.cpp(74,20): warning C4311: приведение типов: усечение указателя из "LPVOID" в "int"
+C:\Users\User\SP_lab\SP_labs\lab5\Galushkova5.3\Lab3.3.Galushkova.cpp(74,20): warning C4302: приведение типов: усечение из "LPVOID" к "int"
+  Lab3.3.Galushkova.vcxproj -> C:\Users\User\SP_lab\SP_labs\lab5\Galushkova5.3\x64\Debug\Lab3.3.Galushkova.exe

@@ -1,0 +1,2 @@
+C:\Users\User\SP_lab\SP_labs\lab5\Galushkova5.2\x64\Debug\Lab5.2.Galushkova.exe
+C:\Users\User\SP_lab\SP_labs\lab5\Galushkova5.2\x64\Debug\Lab5.2.Galushkova.pdb

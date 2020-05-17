@@ -1,0 +1,5 @@
+﻿  Lab5.2.Galushkova.cpp
+C:\Users\User\SP_lab\SP_labs\lab5\Galushkova5.2\Lab5.2.Galushkova.cpp(20,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\SP_lab\SP_labs\lab5\Galushkova5.2\Lab5.2.Galushkova.cpp(36,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\SP_lab\SP_labs\lab5\Galushkova5.2\Lab5.2.Galushkova.cpp(78,5): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Lab5.2.Galushkova.vcxproj -> C:\Users\User\SP_lab\SP_labs\lab5\Galushkova5.2\x64\Debug\Lab5.2.Galushkova.exe
