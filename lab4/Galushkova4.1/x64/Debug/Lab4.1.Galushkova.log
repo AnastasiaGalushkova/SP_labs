@@ -1,3 +1,0 @@
-﻿  Lab4.1.Galushkova.cpp
-C:\Users\User\SP_lab\SP_labs\lab4\Galushkova4.1\Lab4.1.Galushkova.cpp(134,9): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "LPVOID"
-  Lab4.1.Galushkova.vcxproj -> C:\Users\User\SP_lab\SP_labs\lab4\Galushkova4.1\x64\Debug\Lab4.1.Galushkova.exe
