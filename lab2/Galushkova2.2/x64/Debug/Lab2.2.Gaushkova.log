@@ -1,2 +1,0 @@
-﻿  Lab2.2.Gaushkova.cpp
-C:\Users\User\SP_lab\SP_labs\lab2\Galushkova2.2\Lab2.2.Gaushkova.cpp(272,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.

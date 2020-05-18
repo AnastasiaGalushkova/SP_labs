@@ -1,2 +1,0 @@
-C:\Users\User\SP_lab\SP_labs\lab2\Galushkova2.1\x64\Debug\Lab2.1.Galushkova.exe
-C:\Users\User\SP_lab\SP_labs\lab2\Galushkova2.1\x64\Debug\Lab2.1.Galushkova.pdb
