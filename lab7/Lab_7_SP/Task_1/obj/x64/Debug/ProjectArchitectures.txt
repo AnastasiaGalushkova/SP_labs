@@ -1,0 +1,1 @@
+C:\Users\Dell\sp-course\lab_7\Lab_7_SP\Task_1\Task_1.csproj;x64
