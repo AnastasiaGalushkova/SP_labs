@@ -1,0 +1,9 @@
+C:\Users\Valentin\Desktop\Sp_lab_8\Lab_8_SP\FileManager\obj\ARM\Debug\FileManager.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\Sp_lab_8\Lab_8_SP\FileManager\obj\ARM\Debug\App.g.i.cs
+C:\Users\Valentin\Desktop\Sp_lab_8\Lab_8_SP\FileManager\obj\ARM\Debug\App.g.cs
+C:\Users\Valentin\Desktop\Sp_lab_8\Lab_8_SP\FileManager\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Valentin\Desktop\Sp_lab_8\Lab_8_SP\FileManager\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Valentin\Desktop\Sp_lab_8\Lab_8_SP\FileManager\obj\ARM\Debug\App.xaml
+C:\Users\Valentin\Desktop\Sp_lab_8\Lab_8_SP\FileManager\obj\ARM\Debug\MainPage.xaml
+C:\Users\Valentin\Desktop\Sp_lab_8\Lab_8_SP\FileManager\obj\ARM\Debug\App.xbf
+C:\Users\Valentin\Desktop\Sp_lab_8\Lab_8_SP\FileManager\obj\ARM\Debug\MainPage.xbf
